@@ -1,0 +1,12 @@
+For this project the goal is to create two different classes.
+One being Team that has member variables such as:
+  Name
+  Coach_Name
+  Home_City
+  Home_Status(bool: true or false)
+  Score
+  Timeout_Count
+The other being scoreboard that has member variables such as:
+  Being able to hold two different Team class (objects)
+  Display the information from both of those in a scoreboard format.
+  Make the scoreboard function and able to be updated with your input from the keyboard.
